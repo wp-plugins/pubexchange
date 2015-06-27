@@ -32,7 +32,7 @@ This plugin enables you to add PubExchange's partner widgets to your site. The w
 * Click 'Apply Changes'
 * Contact a PubExchange representative to activate your account, so that your widget can begin to display
 
-= All other widgets =
+= Sidebar widgets =
 * Click on the 'Settings' link in left rail and go to the 'PubExchange' menu item.
 * Enter the 'Publication ID' received from your PubExchange representative and leave the 'Widget ID' field blank
 * Click 'Apply Changes'
